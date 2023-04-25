@@ -6,6 +6,7 @@ I am:
 * a Python enthusiast, who is currently learning Software Engineering at SoftUni
 * looking forward to also learning HTML, CSS and JavaScript soon
 * a Quality Assurance Specialist (non-dev), who was and is currently involved in big Volkswagen and BMW/MINI projects
+* experienced in working with large amounts of data
 * an automotive nerd, who loves to drive sports cars, play videogames, read books, collect die-cast models and last, but not least - explore our breathtaking mountains
 
 ## ✉️ Contact me on:
