@@ -26,5 +26,3 @@ I am:
 <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Atlassian.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=slambeca)](https://git.io/streak-stats)
