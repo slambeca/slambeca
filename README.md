@@ -9,7 +9,7 @@ I am:
 * experienced in working with large amounts of data
 * an automotive nerd, who loves to drive sports cars, play videogames, read books, collect die-cast models and explore the mountains
 
-## ✉️ Contact me on:
+## Contact me on:
 
 
 <p align="center">
@@ -18,7 +18,7 @@ I am:
 
 <br />
 
-## 🧰 Languages and Tools I use:
+## Languages and Tools I use:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/pycharm.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -29,5 +29,7 @@ I am:
 
 
 
+
+## GitHub Stats:
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=slambeca&theme=dracula)](https://github.com/slambeca/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api?username=slambeca&theme=algolia&show_icons=true)](https://github.com/slambeca)
