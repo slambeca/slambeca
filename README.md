@@ -33,3 +33,5 @@ I am:
 ## GitHub Stats:
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=slambeca&theme=dracula)](https://github.com/slambeca/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api?username=slambeca&theme=algolia&show_icons=true)](https://github.com/slambeca)
+
+![](https://komarev.com/ghpvc/?username=slambeca&color=brightgreen)
