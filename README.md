@@ -7,7 +7,7 @@ I am:
 * looking forward to also learning HTML, CSS and JavaScript soon
 * a Quality Assurance Specialist (non-dev)
 * experienced in working with large amounts of data
-* an automotive nerd, who loves to drive sports cars, play videogames, read books, collect die-cast models and explore the mountains
+* my way of escaping the noise is changing my altitude
 
 ## Contact me on:
 
