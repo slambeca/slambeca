@@ -7,7 +7,7 @@ I am:
 * looking forward to also learning HTML, CSS and JavaScript soon
 * a Quality Assurance Specialist (non-dev)
 * experienced in working with large amounts of data
-* my way of escaping the noise is changing my altitude
+* changing my altitude as my way of escaping the noise..
 
 ## Contact me on:
 
