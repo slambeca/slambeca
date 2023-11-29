@@ -3,8 +3,8 @@
 My name is Borislav, but you can call me Bobi
 
 I am:
-* a Python enthusiast, who is currently learning Python ORM at SoftUni
-* looking forward to also learning HTML, CSS and JavaScript soon
+* a Python enthusiast, who is currently learning Software Engineering at SoftUni
+* looking forward to also learning JavaScript soon
 * a QA Specialist (non-dev)
 * experienced in working with large amounts of data
 * changing my altitude as my way of escaping the noise..
