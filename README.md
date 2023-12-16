@@ -7,7 +7,7 @@ I am:
 * looking forward to also learning JavaScript and React soon
 * a QA Specialist (non-dev) and Project Coordinator for bmw.bg and mini.bg
 * experienced in working with large amounts of data
-* changing my altitude as my way of escaping the noise..
+* changing my altitude as my way of escaping the noise...
 
 ## Contact me on:
 
