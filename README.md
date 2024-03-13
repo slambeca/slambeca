@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-I'm Bobi.
+My name is Borislav, but you can call me Bobi.
 
 I am:
 * a Python enthusiast, who is currently learning Django Advanced at SoftUni
