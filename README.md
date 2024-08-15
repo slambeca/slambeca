@@ -3,7 +3,7 @@
 My name is Borislav, but you can call me Bobi.
 
 I am:
-* a Python enthusiast, who is currently learning JavaScript for Front-end at SoftUni
+* a Python enthusiast, who is currently learning JS for Front-end at SoftUni
 * looking forward to also learning React very soon
 * a QA Specialist (non-dev) and Project Coordinator for bmw.bg and mini.bg websites
 * experienced in working with large amounts of data
